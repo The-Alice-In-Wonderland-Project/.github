@@ -4,8 +4,8 @@
 
 The Alice in Wonderland Project seeks to do the seemingly impossible - give new devs real world experience being part of a remote software development team *before* they have a software development job. 
 
->*"
-“Why, sometimes I've believed as many as six impossible things before breakfast.” ~ Alice
+> *"
+“Why, sometimes I've believed as many as six impossible things before breakfast.” ~ Alice*
 
 ## Overview
 
