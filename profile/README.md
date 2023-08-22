@@ -8,7 +8,7 @@ The Alice in Wonderland Project seeks to do the seemingly impossible - give new 
 
 ## Overview
 
-The Alice in Wonderland Project is an experiential, project based learning open source project to help new developers learn GitHub workflows and being part of an Open Source team. It also provides opportunities for devs with software work experience (e.g. 6 months all the way to senior dev) to level up their leadership skills by being maintainers that act as "team leads" onboarding new devs, reviewing PRs, providing code reviews, and doing some mentorship. Team leads work in pairs to help balance out their work/life/Hacktoberfest balance.
+The Alice in Wonderland Project is an experiential, project based learning open source project to help new developers learn GitHub workflows and being part of an Open Source team. It also provides opportunities for devs with software work experience (e.g. 6 months all the way to senior dev) to level up their leadership skills by being maintainers that act as "team leads" onboarding new devs, reviewing PRs, providing code reviews, and doing some mentorship. Team leads work in pairs to help balance out their work/life/Hacktoberfest balance. Teams are kept to a maximum of 6 new devs and two team leads thoughout Hacktoberfest so everyone has a personalized experience.
 
 As the focus is on learning GitHub and how to work as part of a software dev team, the app is a simple and fun html/css/vanilla javascript text-based game with a Tim Burton’s Alice in Wonderland theme. It doesn't make sense to try to learn a complex tool using a complex codebase. That's like using one black box to learn how to use the other black box.
 
@@ -33,6 +33,7 @@ Diversity and Accessibility (A11y) is key! We strongly encourage applications fr
   - Developers who are currently working as software developers.
   - Team leads should have real world on the job experience working as part of a dev/engineering team with regular pushes/commits to GitHub.
   - Work in pairs to help balance out their work/life/Hacktoberfest balance.
+  - Guide a team of up to 6 new developers from onboarding and getting their local environment set up, to doing their first PRs, though to writing and contributing code. Some may also help new devs, who've done 8-10 PRs do their first code review and co-approve a PR.
 
 ### New Devs
 
